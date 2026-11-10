@@ -1,0 +1,6 @@
+{
+  "name": "HackKro – Intern Task Management Portal",
+  "description": "Enterprise-grade intern task assignment, submission review, points tracking, and automated email notifications portal for HackKro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
